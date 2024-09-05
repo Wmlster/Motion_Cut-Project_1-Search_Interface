@@ -74,7 +74,7 @@ select {
   display: none;
 }
 
-@media screen and (max-width: 426px) {
+@media only screen and (max-width: 426px) {
   body {
     background-color: #000000;
   }
